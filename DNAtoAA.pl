@@ -1,5 +1,4 @@
-use warnings FATAL => 'all';
-use strict;
+#
 #
 # A subroutine to translate a DNA codon to an amino acid
 
